@@ -1,5 +1,5 @@
 # v2saconv
-GTAV resource converter. Converts YTD/YDR/YDD/YFT resources to OBJ Wavefront files.
+GTAV resource converter. Converts YTD/YDR/YDD/YFT resources to OBJ Wavefront files. (Only YDR -> OBJ, rest DFF, COL)
 
 Features:
 
